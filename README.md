@@ -33,5 +33,3 @@ You can train and test the model using the run.py script, with customizable comm
 
 ## Results
 Experimental results and visualizations will be supplemented later, or refer to the original paper.
-
-```
