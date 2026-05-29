@@ -35,6 +35,3 @@ You can train and test the model using the run.py script, with customizable comm
 Experimental results and visualizations will be supplemented later, or refer to the original paper.
 
 ```
-
-## Contact
-For questions, please submit an issue or contact the author via email: zhangshulong@cau.edu.cn
