@@ -2,7 +2,7 @@
 ![Overall architecture of the DBLN](figures/DBLN.png)
 
 ## Introduction
-DBLN (Deep Bidirectional Learning Network) is a deep learning model for time series modeling, suitable for multivariate time series classification and forecasting tasks. This project implements DBLN and related experiments, supporting various public datasets.
+DBLN (Deep Bidirectional Learning Network) is a deep learning model for time series modeling, suitable for multivariate time series classification tasks. This project implements DBLN and related experiments, supporting various public datasets.
 
 ## Features
 - Supports multivariate time series modeling
@@ -21,7 +21,7 @@ Example for training:
 ```bash
 python run.py --is_training 0 --datatype UEA --dataset BasicMotions
 ```
-Parameters can be adjusted in run.py or related config files.
+Parameters can be adjusted in run.sh or related config files.
 
 ## Dataset
 The `data/UEA/` directory contains only a subset of datasets for demonstration. The complete UEA multivariate time series archive can be downloaded from the official website:
