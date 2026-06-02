@@ -19,7 +19,7 @@ Python 3.8+ is recommended. It is suggested to use a virtual environment or Anac
 ## Quick Start
 Example for training:
 ```bash
-python run.py --dataset BasicMotions
+python run.py --is_training 0 --datatype UEA --dataset BasicMotions
 ```
 Parameters can be adjusted in run.py or related config files.
 
